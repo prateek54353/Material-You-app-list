@@ -1,20 +1,20 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 <p align="center">
-  <i><b>Material You</b> (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.</i>
+  <i>A curated, community‑driven catalog of Android apps embracing <b>Material You (Material Design 3)</b> — with dynamic color, modern UI patterns, and expressive design.</i>
 </p>
 
 <p align="center">
-  <img src="images/material_you.png" alt="Material You">
+  <img src="images/material_you.png" alt="Material You showcase">
 </p>
 
 <p align="center">
-  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge">
+  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="GitHub stars badge">
 </p>
 
 <p align="center">
   <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram Channel">
   </a>
 </p>
 
@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram Chat">
   </a>
   <a href="https://discord.com/invite/JtUJTTuNW6">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord Server">
   </a>
 </p>
 
 <p align="center">
   <a href="#-newly-added-apps">
-    <strong><u>🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</u></strong>
+    <strong><u>🆕 View the latest added apps</u></strong>
   </a>
 </p>
 
@@ -217,7 +217,9 @@
 
 ---
 ### 📋 Disclaimer
-This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
+This repository is a curated list of apps that visually adopt the **Material You / Material Design 3** guidelines.  
+It does **not** evaluate the usefulness, quality, privacy practices, or security of the listed apps.  
+There may also be other apps that follow MD3 guidelines but are not yet included here.
 ### 🏷️ Tags
 - **Difference between `MD`, `MY`, `MDY`, `MD3E`**
 
@@ -1784,8 +1786,54 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Similar Lists:** [sysworx's](https://github.com/sysworx/Material-You-app-list)<sup><sup>🪦</sup></sup>, [Naverim's](https://github.com/Naverim/Material-You-app-list)<sup><sup>🪦</sup></sup>, [TeaEndsAcronyms's](https://github.com/AAGaming00/Material-You-Apps)<sup><sup>🪦</sup></sup>, [misaka-13766's](https://github.com/CHNJohnHK/Material-You-App-Repository)<sup><sup>🪦</sup></sup>
 	- **Fluent Design Apps:** [HotarunIchijou's](https://github.com/HotarunIchijou/fluent-design-app-list), [DesignLipsx's](https://github.com/DesignLipsx/WinUI-3-Apps-List)
 
+---
+
+## ℹ️ About This List
+
+This repository aims to be a **living catalog of Material You–inspired Android apps**, focused primarily on:
+
+- **Visual design**: use of Material Design 3 components, dynamic color, and modern motion.
+- **Discoverability**: grouping apps by category so users can quickly find tools that match their setup.
+- **Community input**: many entries and corrections come from the Android theming and customization community.
+
+Entries are added and maintained on a best‑effort basis. Listings are **not endorsements**; always review apps according to your own needs and threat model.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are very welcome. You can help by:
+
+- **Adding a new app** that follows Material You / MD3 guidelines.
+- **Correcting tags** (e.g., `MD`, `MY`, `MDY`, `MD3E`, `FOSS`, `MOD`, `FORK`, `🪦`).
+- **Updating links** that are broken, moved, or deprecated.
+
+### 📮 Contribution Guidelines
+
+- Open an issue or pull request with:
+  - App name
+  - Short description (optional but helpful)
+  - Link (GitHub, Play Store, F‑Droid, official site, etc.)
+  - Appropriate tags (`MD`, `MY`, `MDY`, `MD3E`, and any other relevant ones)
+- Place the app in the **most suitable category** and keep the existing formatting/style.
+- Ensure links are **safe and official** where possible.
+
+Small fixes (typos, reordering, better descriptions) are also appreciated.
+
+---
+
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
+
+---
+
+## 📄 License
+
+Unless stated otherwise, the content of this list is provided under the terms of the  
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+You are free to **share** and **adapt** the list, provided you give appropriate credit and indicate if changes were made.
+
 
 
